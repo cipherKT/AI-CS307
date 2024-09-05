@@ -85,20 +85,16 @@ Activate the virtual environment:
   
 
 - **Windows:**
-
-  ```bash
+```bash
 
   .\venv\Scripts\activate
-
-  ```
+```
 
 - **macOS/Linux:**
-
-  ```bash
+```bash
 
   source venv/bin/activate
-
-  ```
+```
 
   
 
