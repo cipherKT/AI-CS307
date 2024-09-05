@@ -224,7 +224,6 @@ Solution found:
 
 ...
 
-```
 
   
 
